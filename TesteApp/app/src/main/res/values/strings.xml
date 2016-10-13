@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Nome do App</string>
+    <string name="title">Título</string>
+    <string name="placeholder">Lorem Ipsum, Ipsum Lorem...Lorem Ipsum,
+        Ipsum Lorem...Lorem Ipsum, Ipsum Lorem...
+        Lorem Ipsum, Ipsum Lorem...
+    </string>
+    <string name="cover">Capa</string>
+</resources>
